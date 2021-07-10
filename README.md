@@ -70,3 +70,4 @@ Some helpful resources are available on the [GitHub Docs](https://docs.github.co
 - [Gitmoji commit messages](https://github.com/carloscuesta/gitmoji)
 
 <a name="email-privacy-footnote">[1]</a>: Note that the content of this pull request will be public, so your email address will be publicly available and discoverable by search engines. If you're not comfortable sharing your email address, you can use your GitHub-provided `noreply` email address in the YAML front matter instead (see [Setting your commit email address](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address) to find yours). If you select this option, please additionally fill this form so we know your actual email address in case we want to contact you: [Link to Typeform](https://link.koj.co/upptime-externship-email).
+....
